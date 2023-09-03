@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['623142108935']
+global.ownernomer = "623142108935"
+global.premium = ['623142108935']
+global.packname = 'Stiker mona bot'
+global.author = 'Mono Woilah'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -33,7 +33,7 @@ global.sp = ''
 
 // Setting Mess
 global.mess = {
-    success: '✅Done',
+    success: '✅Done Bang',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
@@ -59,15 +59,15 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.mygit = 'https://github.com/fellix1'
+global.myyt = 'https://youtube.com/c/Monö'
+global.myytv = 'https://www.youtube.com/watch?v=mlSE8CjY38k&t=22s'
+global.mygc = "https://chat.whatsapp.com/GJUtioEkoOcK8l6XPqVNOG"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'ciyo BOT'
+global.akulaku = 'Bot By Mono'
+global.ytname = 'Monö' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
